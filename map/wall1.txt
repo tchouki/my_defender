@@ -1,0 +1,43 @@
+----------------------------------------|
+-oxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxp-----|
+-t--------------------------------y-----|
+-t--------------------------------y-----|
+-t--------------------------------y-----|
+-t-azer---------------------------y-----|
+-gkqsdfkm-----------lkkkkkkkm-----y-----|
+--------y-----------t-------y-----y-----|
+--------y-----------t-------y-----y-----|
+--------y-----------t-------y-----y-----|
+--------y-----------bxxxxxxxn-----y-----|
+-oxxxxxxn-------------------------y-----|
+-t--------------------------------y-----|
+-t------------------azer----------y-----|
+-t-----------------yqsdft---------y-----|
+-t-----------------y----t---------y-----|
+-t-----------------y----t---------y-----|
+-t-----------ykkkkkh----gkkkkkkkkkh-----|
+-gkkkkt------y--------------------------|
+------t-azer-y--------------------------|
+------gkqsdfkh--------------------------|
+----------------------------------------|
+----------------------------------------|
+
+
+23 lignes
+41 characters
+x mur du bas
+o coin du haut gauche
+p coin du haut droit
+b coin du bas gauche
+n coin du bas droit
+t mur de coté gauche
+y mur de coté droit
+
+a porte coin haut gauche
+q porte coin bas gauche
+z porte haut gauche
+s porte bas gauche
+e porte haut droite
+d porte bas droite
+r porte coin haut droite
+f porte coin bas droite
